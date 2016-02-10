@@ -1,2 +1,2 @@
 # Outcasted
-A C++ Roguelike using
+A C++ Roguelike
