@@ -1,2 +1,2 @@
 # Outcasted
-A C++ Roguelike using LibTCod
+A C++ Roguelike using
